@@ -1,0 +1,3 @@
+D:/kpi/2 semestr/op/kursa4/final/cmake-build-debug/CMakeFiles/final.dir
+D:/kpi/2 semestr/op/kursa4/final/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/kpi/2 semestr/op/kursa4/final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
