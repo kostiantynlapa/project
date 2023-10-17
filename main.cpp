@@ -18,7 +18,7 @@ int main() {
     printSystemMessage("\n\t\t\t\t\t\t\t  ___________________", START, true);
 
     // wait for the user to press Enter
-    printSystemMessage("\t\t\t\t\t\t\t\t Press Enter to continue...", START, true);
+    printSystemMessage("\t\t\t\t\t\t\t Press Enter to continue...", START, true);
     cin.ignore();
 
     StoryWriter story("story.txt");
